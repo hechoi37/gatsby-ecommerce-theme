@@ -45,7 +45,8 @@ const Contact = (props) => {
       <div className={styles.section}>
         <h4>Email</h4>
         <p>
-          You can email our Customer Service team at customerservice@example.com
+          You can email our Customer Service team No Longer Available Sorry 
+    at customerservice@example.com
           or via the contact form below:
         </p>
       </div>
